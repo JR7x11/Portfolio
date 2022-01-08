@@ -1,0 +1,98 @@
+.hero {
+  background-image: url("assets/Aaron1.jpg");
+  height: 250px;
+  color: ghostwhite;
+}
+
+.topnav {
+  background-color: red;
+  overflow: hidden;
+  margin-top: 0px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: goldenrod;
+  color: white;
+}
+
+body {
+  background-color: royalblue;
+}
+
+/* .navbar{
+    background-image: url('assets/aaron2.jpg');
+    height: 150px;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+} */
+
+.aboutme {
+  background-color: gainsboro;
+  height: 300px;
+}
+
+.work {
+  background-color: gainsboro;
+}
+
+.bigbox {
+  background-color: rgb(112, 10, 10);
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.projects {
+  display: flex;
+}
+
+.box {
+  background-color: coral;
+  padding: 0px;
+  display: inline-block;
+  margin: auto;
+  color: goldenrod;
+}
+
+.contact {
+  background-color: gainsboro;
+}
+
+h3 {
+  color: goldenrod;
+}
+
+footer {
+  text-align: center;
+  color: aqua;
+}
+
+footer h3 {
+  color: aqua;
+}
+
+.contact h4 {
+  text-align: center;
+}
+
+.contact img {
+  display: block;
+  margin: auto;
+}
