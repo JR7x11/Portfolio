@@ -1,11 +1,11 @@
 .hero {
-  background-image: url("assets/Aaron1.jpg");
+  background-image: url("assets/planet.jpg");
   height: 250px;
   color: ghostwhite;
 }
 
 .topnav {
-  background-color: rgb(112, 10, 10);
+  background-color: #000000;
   overflow: hidden;
   margin-top: 0px;
 }
@@ -28,12 +28,12 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: goldenrod;
+  background-color: rgb(32, 106, 218);
   color: white;
 }
 
 body {
-  background-color: royalblue;
+  background-color: rgb(53, 58, 73);
 }
 
 /* .navbar{
@@ -45,16 +45,16 @@ body {
 } */
 
 .aboutme {
-  background-color: gainsboro;
+  background-color: gray;
   height: 300px;
 }
 
 .work {
-  background-color: gainsboro;
+  background-color: rgb(53, 58, 73);
 }
 
 .bigbox {
-  background-color: rgb(112, 10, 10);
+  background-color: gray;
   height: 300px;
   margin-bottom: 20px;
 }
@@ -64,11 +64,11 @@ body {
 }
 
 .box {
-  background-color: rgb(112, 10, 10);
+  background-color: black;
   padding: 0px;
   display: inline-block;
   margin: auto;
-  color: goldenrod;
+  color: rgb(32, 106, 218);
   width: 25%;
 }
 
@@ -78,20 +78,20 @@ body {
 }
 
 .contact {
-  background-color: gainsboro;
+  background-color: rgb(32, 106, 218);
 }
 
 h3 {
-  color: goldenrod;
+  color: white;
 }
 
 footer {
   text-align: center;
-  color: aqua;
+  color: rgb(32, 106, 218);
 }
 
 footer h3 {
-  color: aqua;
+  color: rgb(32, 106, 218);
 }
 
 .contact h4 {
