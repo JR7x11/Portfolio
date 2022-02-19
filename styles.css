@@ -1,5 +1,5 @@
 .hero {
-  background-image: url("assets/planet.jpg");
+  background-image: url("assets/images/planet.jpg");
   height: 250px;
   color: ghostwhite;
 }
@@ -55,8 +55,11 @@ body {
 
 .bigbox {
   background-color: gray;
-  height: 300px;
-  margin-bottom: 20px;
+
+  margin: 20px 0 20px 0;
+}
+.bigbox img {
+  width: 100%;
 }
 
 .projects {
